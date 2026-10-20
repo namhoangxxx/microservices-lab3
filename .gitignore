@@ -1,0 +1,10 @@
+# Bỏ qua thư mục cài đặt thư viện
+node_modules/
+
+# Bỏ qua các file cấu hình môi trường cá nhân
+.env
+*.log
+
+# Bỏ qua file rác của hệ điều hành
+.DS_Store
+Thumbs.db
